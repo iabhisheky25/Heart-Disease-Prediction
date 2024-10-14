@@ -12,7 +12,7 @@ A simple Streamlit app that predicts the risk of heart disease using a pre-train
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/2003saurabh/heart-disease-prediction-app.git
+   git clone https://github.com/iabhisheky25/Heart-Disease-Prediction/edit/main/ 
    cd heart-disease-prediction-app
 2. **Create a virtual environment**:
     ```bash
